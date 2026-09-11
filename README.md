@@ -1,10 +1,15 @@
-### This is a new LOCAL change :)
-### This is a new REMOTE change :O
-COCONUT LADOO RECIPE
-line 2 changed remotely
-DESCRIPTION: A traditional Indian sweet ball made primarily from coconut and sweetener like sugar, jaggery or condensed milk. Prepared generally during festivals.
+# COCONUT LADOO RECIPE
+
+![Coconut Ladoo](recipe.png)
+
+### DESCRIPTION: A traditional Indian **sweet ball** made primarily from coconut and sweetener like sugar, jaggery or condensed milk. *Prepared generally during festivals.*
+
+### Main Ingredients
+
+- Coconut
+- Sugar
+- Cardamom
+- Condensed milk
+
 https://hebbarskitchen.com/coconut-ladoo-recipe-nariyal-ladoo/
-last line changed locally
-### This is a LOCAL change :)
-### This is a REMOTE change :O
 
